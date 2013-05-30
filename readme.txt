@@ -62,17 +62,17 @@ JotForm Feedback Button is actually a simply include for your JotForm feedback b
 
 == Screenshots ==
 
-1. Customize your button 
-http://jotform.github.io/wordpress-feedback-plugin/screenshots/settings.png
+1. Customize your feedback button 
+screenshot-1.png
 
 2. Select your forms from your JotForm account
-http://jotform.github.io/wordpress-feedback-plugin/screenshots/form-picker.png
+screenshot-2.png
 
 3. Feedback Button on Page 
-http://jotform.github.io/wordpress-feedback-plugin/screenshots/button-on-page.png
+screenshot-3.png
 
 4. Feedback Form in Action
-http://jotform.github.io/wordpress-feedback-plugin/screenshots/feedback-form-in-action.png
+screenshot-4.png
 
 
 == Changelog ==
