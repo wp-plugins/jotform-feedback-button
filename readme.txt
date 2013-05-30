@@ -63,17 +63,12 @@ JotForm Feedback Button is actually a simply include for your JotForm feedback b
 == Screenshots ==
 
 1. Customize your feedback button 
-screenshot-1.png
 
 2. Select your forms from your JotForm account
-screenshot-2.png
 
 3. Feedback Button on Page 
-screenshot-3.png
 
 4. Feedback Form in Action
-screenshot-4.png
-
 
 == Changelog ==
 
