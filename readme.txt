@@ -1,5 +1,5 @@
 === JotForm Feedback Button ===
-Contributors: JotForm
+Contributors: jotform
 Donate link: N/A
 Tags: jotform, form, feedback, button
 Requires at least: 3.3
